@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://theJuan1112.github.io/blog/</loc>
+    <lastmod>2020-03-09T18:14:33-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theJuan1112.github.io/blog/eval-vuln-vs-pentest/</loc>
+    <lastmod>2020-03-09T18:14:33-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theJuan1112.github.io/</loc>
+    <lastmod>2020-03-09T18:14:33-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theJuan1112.github.io/blog/que-es-un-hacker/</loc>
+    <lastmod>2020-03-09T17:53:37-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theJuan1112.github.io/author/</loc>
+  </url>
+  
+  <url>
+    <loc>https://theJuan1112.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://theJuan1112.github.io/author/juan-zapata/</loc>
+  </url>
+  
+  <url>
+    <loc>https://theJuan1112.github.io/tags/</loc>
+  </url>
+  
+</urlset>

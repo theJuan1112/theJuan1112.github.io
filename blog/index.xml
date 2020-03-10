@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Stolkin International</title>
+    <link>https://theJuan1112.github.io/blog/</link>
+    <description>Recent content in Blogs on Stolkin International</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-co</language>
+    <lastBuildDate>Mon, 09 Mar 2020 18:14:33 -0500</lastBuildDate>
+    
+	<atom:link href="https://theJuan1112.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Evaluación de Vulnerabilidades vs Prueba de Penetración (Hacking Ético)</title>
+      <link>https://theJuan1112.github.io/blog/eval-vuln-vs-pentest/</link>
+      <pubDate>Mon, 09 Mar 2020 18:14:33 -0500</pubDate>
+      
+      <guid>https://theJuan1112.github.io/blog/eval-vuln-vs-pentest/</guid>
+      <description> EN CONSTRUCCION!!!
+ </description>
+    </item>
+    
+    <item>
+      <title>Que Es Un Hacker?</title>
+      <link>https://theJuan1112.github.io/blog/que-es-un-hacker/</link>
+      <pubDate>Mon, 09 Mar 2020 17:53:37 -0500</pubDate>
+      
+      <guid>https://theJuan1112.github.io/blog/que-es-un-hacker/</guid>
+      <description> EN CONSTRUCCIÓN!!!
+ </description>
+    </item>
+    
+  </channel>
+</rss>
