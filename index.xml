@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stolkin International</title>
-    <link>https://theJuan1112.github.io/</link>
+    <link>https://thejuan1112.github.io/</link>
     <description>Recent content on Stolkin International</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-co</language>
     <lastBuildDate>Mon, 09 Mar 2020 18:14:33 -0500</lastBuildDate>
     
-	<atom:link href="https://theJuan1112.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://thejuan1112.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Evaluación de Vulnerabilidades vs Prueba de Penetración (Hacking Ético)</title>
-      <link>https://theJuan1112.github.io/blog/eval-vuln-vs-pentest/</link>
+      <link>https://thejuan1112.github.io/blog/eval-vuln-vs-pentest/</link>
       <pubDate>Mon, 09 Mar 2020 18:14:33 -0500</pubDate>
       
-      <guid>https://theJuan1112.github.io/blog/eval-vuln-vs-pentest/</guid>
+      <guid>https://thejuan1112.github.io/blog/eval-vuln-vs-pentest/</guid>
       <description> EN CONSTRUCCION!!!
  </description>
     </item>
     
     <item>
       <title>Que Es Un Hacker?</title>
-      <link>https://theJuan1112.github.io/blog/que-es-un-hacker/</link>
+      <link>https://thejuan1112.github.io/blog/que-es-un-hacker/</link>
       <pubDate>Mon, 09 Mar 2020 17:53:37 -0500</pubDate>
       
-      <guid>https://theJuan1112.github.io/blog/que-es-un-hacker/</guid>
+      <guid>https://thejuan1112.github.io/blog/que-es-un-hacker/</guid>
       <description> EN CONSTRUCCIÓN!!!
  </description>
     </item>
     
     <item>
       <title>Juan Zapata</title>
-      <link>https://theJuan1112.github.io/author/juan-zapata/</link>
+      <link>https://thejuan1112.github.io/author/juan-zapata/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://theJuan1112.github.io/author/juan-zapata/</guid>
+      <guid>https://thejuan1112.github.io/author/juan-zapata/</guid>
       <description>CEO y Fundador de Stolkin International SAS. Experiencia en Desarrollo Web/Movil, pasion por el Hacking y viajar del Oeste al Este :.</description>
     </item>
     
