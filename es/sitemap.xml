@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://thejuan1112.github.io/es/blog/</loc>
+    <lastmod>2020-03-09T18:14:33-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thejuan1112.github.io/es/blog/eval-vuln-vs-pentest/</loc>
+    <lastmod>2020-03-09T18:14:33-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thejuan1112.github.io/es/</loc>
+    <lastmod>2020-03-09T18:14:33-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thejuan1112.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://thejuan1112.github.io/es/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://thejuan1112.github.io/es/blog/que-es-un-hacker/</loc>
+    <lastmod>2020-03-09T17:53:37-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thejuan1112.github.io/es/author/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thejuan1112.github.io/author/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://thejuan1112.github.io/es/author/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://thejuan1112.github.io/es/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thejuan1112.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://thejuan1112.github.io/es/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://thejuan1112.github.io/es/author/juan-zapata/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thejuan1112.github.io/author/juan-zapata/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://thejuan1112.github.io/es/author/juan-zapata/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://thejuan1112.github.io/es/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thejuan1112.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://thejuan1112.github.io/es/tags/"
+                />
+  </url>
+  
+</urlset>

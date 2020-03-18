@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Stolkin International</title>
+    <link>https://thejuan1112.github.io/es/author/</link>
+    <description>Recent content in Authors on Stolkin International</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-co</language>
+    
+	<atom:link href="https://thejuan1112.github.io/es/author/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Juan Zapata</title>
+      <link>https://thejuan1112.github.io/es/author/juan-zapata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thejuan1112.github.io/es/author/juan-zapata/</guid>
+      <description>CEO y Fundador de Stolkin International SAS. Pasión por el Hacking, Desarrollo Web/Movil y viajar del OESTE al ESTE:.</description>
+    </item>
+    
+  </channel>
+</rss>
