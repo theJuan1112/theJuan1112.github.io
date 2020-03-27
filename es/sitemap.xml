@@ -4,17 +4,27 @@
   
   <url>
     <loc>https://thejuan1112.github.io/es/blog/</loc>
-    <lastmod>2020-03-09T18:14:33-05:00</lastmod>
+    <lastmod>2020-03-25T13:13:54-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thejuan1112.github.io/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://thejuan1112.github.io/es/blog/"
+                />
   </url>
   
   <url>
-    <loc>https://thejuan1112.github.io/es/blog/eval-vuln-vs-pentest/</loc>
-    <lastmod>2020-03-09T18:14:33-05:00</lastmod>
+    <loc>https://thejuan1112.github.io/es/blog/seguridad-trabajo-remoto/</loc>
+    <lastmod>2020-03-25T13:13:54-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://thejuan1112.github.io/es/</loc>
-    <lastmod>2020-03-09T18:14:33-05:00</lastmod>
+    <lastmod>2020-03-25T13:13:54-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -25,11 +35,6 @@
                 hreflang="es"
                 href="https://thejuan1112.github.io/es/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://thejuan1112.github.io/es/blog/que-es-un-hacker/</loc>
-    <lastmod>2020-03-09T17:53:37-05:00</lastmod>
   </url>
   
   <url>
