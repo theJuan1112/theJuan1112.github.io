@@ -1,2 +1,2 @@
 # theJuan1112.github.io
-Company Website
+Company Website using HUGO
